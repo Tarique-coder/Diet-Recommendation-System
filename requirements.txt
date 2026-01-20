@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+jupyter
+matplotlib
+seaborn
+requests
+kaggle
+python-dotenv
+lightfm
+implicit
+xgboost
+pulp
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu

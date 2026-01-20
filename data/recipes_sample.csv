@@ -1,0 +1,5 @@
+recipe_id,title,ingredients,calories,protein_g,carbs_g,fat_g,meal_type,cuisine
+1,Simple Oatmeal,"oats;milk;banana;honey",350,10,60,7,breakfast,continental
+2,Vegetable Stir Fry,"broccoli;carrot;bell pepper;soy sauce;olive oil",420,8,55,18,lunch,asian
+3,Grilled Chicken Salad,"chicken breast;lettuce;tomato;cucumber;olive oil",480,40,10,28,dinner,mediterranean
+4,Peanut Butter Toast,"bread;peanut butter;jam",300,9,35,12,snack,continental
